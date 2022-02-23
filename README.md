@@ -15,29 +15,21 @@
 
 
 #### 🤔 If you didn't know...
-I am a Cybersecurity student, and currently I am learning more about application scalability and security. I love docker and kubernetes!
+I am a Cybersecurity student, and currently I am learning more about application scalability and security.
 
-#### I also work a lot with frameworks! [Attention, work in progress! 👷]
-| Backend       | Frontend     | Database    |
-|---------------|--------------|-------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ruby_on_Rails_logo.svg/1200px-Ruby_on_Rails_logo.svg.png" width=50><br>Ruby on Rails | Svelte       | SQLite3     |
-| <img src="https://tsed.io/tsed-og.png" width=50><br>TS.ed         | VueJS        | MariaDB     |
-| <img src="https://img.stackshare.io/service/6439/AlIKY7xr_400x400.jpg" width=50> <br>AdonisJS      | React        | MySQL       |
-| NestJS        | React Native | MongoDB     |
-| Laravel       | Flutter      | CockroachDB |
-| CakePHP       | Astro        | CouchDB     |
+#### 🔭 I’m currently working on Castilla & Anomia
+Castilla is an Open Source data-driven "sandox website", it provides users with a virtual market, avatars & socializing enviorments. Anomia is a privacy-wise toolkit for developers that provide libraries & apps to work with knowing your data is safe and secure. 
 
-#### 🔭 I’m currently working on Anomia
-Anomia is definitively my personal project! I dont have a clear idea of what I want it to be but surely it'll be great!
 #### 📫 How to reach me!
 You can reach me in various social platforms like Discord! Or just send me a mail! :')
 
-- 📧 Shigetorum@hotmail.com
-- 💬 discordheresoon:tm:#idk
+- 📧 Business Email: Shigetorum@tuta.io  
+
+Always open to talk!
 
 
-#### I currently work for Polytoria 🌱
-I work on their typescript backend system aswell as maintaining a 3D renderer written in Golang, I also do some scalability architecture but not much further than that!
+#### I am looking for internships! 🌱
+I am currently interested in spanish / german based internships in web development related fields.
 
  
 <!--
